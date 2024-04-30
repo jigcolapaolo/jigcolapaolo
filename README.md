@@ -10,8 +10,6 @@ Full Stack Developer
 👨‍🎓 Considering pursuing a technical degree in programming in the future.</br>
 💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br>
 
-✉️ You can contact me at [Jinbyos@Gmail.com](mailto:Jinbyos@Gmail.com)</br>
-
 👉 Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br>
 
 ## Skills
@@ -22,12 +20,9 @@ Full Stack Developer
 </p>
 
 
-## My LinkedIn
-
-<p align="left"> <a href="https://www.linkedin.com/in/juan-ignacio-colapaolo-b916642a0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-
 ## 📊 GitHub Stats:
+
+
 ![](https://github-readme-stats.vercel.app/api?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
