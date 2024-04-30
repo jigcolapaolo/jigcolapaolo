@@ -4,16 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-FullStack Developer sharing about my journey in tech and programming skills in Backend and Frontend.
-I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.
-Always open to new collaborations whether it be in backend or frontend development.
-Considering pursuing a technical degree in programming in the future.
-Currently working as a volunteer in the No Country organization as a backend and also learning more about JavaScript and React in freeCodeCamp.
+FullStack Developer sharing about my journey in tech and programming skills in Backend and Frontend.</br>
+I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
+Always open to new collaborations whether it be in backend or frontend development.</br>
+Considering pursuing a technical degree in programming in the future.</br>
+Currently working as a volunteer in the No Country organization as a backend and also learning more about JavaScript and React in freeCodeCamp.</br>
 
-🌍 I'm based in Argentina
-🖥️ See my portfolio at [Portfolio](http://juancolapaolo-portfolio.netlify.app/)
-✉️ You can contact me at [Jinbyos@Gmail.com](mailto:Jinbyos@Gmail.com)
-🧠 I'm learning more about JavaScript and React
+🌍 I'm based in Argentina</br>
+🖥️ See my portfolio at [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br>
+✉️ You can contact me at [Jinbyos@Gmail.com](mailto:Jinbyos@Gmail.com)</br>
+🧠 I'm learning more about JavaScript and React</br>
 
 ### Skills
 
