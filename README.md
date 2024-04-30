@@ -8,7 +8,7 @@ Full Stack Developer
 📖 I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
 🤝 Always open to new collaborations whether it be in backend or frontend development.</br>
 👨‍🎓 Considering pursuing a technical degree in programming in the future.</br>
-💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in freeCodeCamp.</br>
+💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br>
 
 ✉️ You can contact me at [Jinbyos@Gmail.com](mailto:Jinbyos@Gmail.com)</br>
 
