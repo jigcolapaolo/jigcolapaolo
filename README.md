@@ -14,7 +14,7 @@ Full Stack Developer
 
 👉 Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br>
 
-### Skills
+## Skills
 
 
 <p align="center">
@@ -22,6 +22,15 @@ Full Stack Developer
 </p>
 
 
-### Socials
+## My LinkedIn
 
 <p align="left"> <a href="https://www.linkedin.com/in/juan-ignacio-colapaolo-b916642a0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=jigcolapaolo&icon=0&color=0)](https://visitcount.itsvg.in)
