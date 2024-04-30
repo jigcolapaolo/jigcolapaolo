@@ -6,10 +6,15 @@ Full Stack Developer from Argentina
 </h3>
 
 🖥️ Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
+
 📖 I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
+
 🤝 Always open to new collaborations whether it be in backend or frontend development.</br>
+
 👨‍🎓 Considering pursuing a technical degree in programming in the future.</br>
-💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br>
+
+💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br></br>
+
 
 👉 Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br>
 
