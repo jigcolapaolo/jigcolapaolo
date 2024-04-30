@@ -1,8 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Juan!
-=============================================================================================================================
-
-Full Stack Developer
---------------------
+<div>
+    <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"> My name is Juan!</h1>
+</div>
+<h3 align="center">
+Full Stack Developer from Argentina
+</h3>
 
 🖥️ Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
 📖 I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
