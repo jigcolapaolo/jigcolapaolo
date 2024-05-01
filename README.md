@@ -1,8 +1,7 @@
 ![banner](https://github.com/jigcolapaolo/jigcolapaolo/assets/145474462/5724bd70-ed85-4de1-a709-02d61116a813)
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=40&duration=3000&pause=2000&color=1670FF&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!;My+name+is+Juan;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=50&duration=3000&pause=2000&color=1670FF&center=true&vCenter=true&random=false&width=1050&height=60&lines=%C2%A1Welcome+to+my+Profile!;My+name+is+Juan;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
 
