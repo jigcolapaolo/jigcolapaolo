@@ -1,11 +1,15 @@
-<div>
-    <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"> My name is Juan!</h1>
-</div>
-<h3 align="center">
-Full Stack Developer from Argentina
-</h3>
+![banner](https://github.com/jigcolapaolo/jigcolapaolo/assets/145474462/5724bd70-ed85-4de1-a709-02d61116a813)
 
-🖥️ Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
+
+
+
+<div>
+    <h1 align="left">Hi, my name is Juan! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"></h1>
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=40&duration=3000&pause=2000&color=1670FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
+☕ Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
 
 📖 I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
 
@@ -13,12 +17,14 @@ Full Stack Developer from Argentina
 
 👨‍🎓 Considering pursuing a technical degree in programming in the future.</br>
 
-💪 Currently working as a volunteer in the [No Country](https://github.com/No-Country) organization as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br></br>
+💪 Currently working as a volunteer in [No Country](https://github.com/No-Country) as a backend and also learning more about JavaScript and React in [freeCodeCamp](https://www.freecodecamp.org/).</br>
+
+💙 I love games, good stories, cooking and the sea.</br></br>
 
 
-👉 Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br>
+👉 Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br></br>
 
-## Skills
+## **`Skills`**
 
 
 <p align="center">
@@ -26,7 +32,7 @@ Full Stack Developer from Argentina
 </p>
 
 
-## 📊 GitHub Stats:
+## **`📊 GitHub Stats`**
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)<br/>
