@@ -29,6 +29,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
