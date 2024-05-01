@@ -2,12 +2,7 @@
 
 
 
-
-<div>
-    <h1 align="left">Hi, my name is Juan! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF"></h1>
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=40&duration=3000&pause=2000&color=1670FF&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=40&duration=3000&pause=2000&color=1670FF&vCenter=true&random=false&width=435&lines=Welcome+to+my+Profile!;My+name+is+Juan;Full+Stack+Developer)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
 
