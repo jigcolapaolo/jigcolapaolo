@@ -20,7 +20,14 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /> Connect with me
 <a href="https://linkedin.com/in/juan-ignacio-colapaolo-b916642a0">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
-</a>
+</a></br></br>
+
+<p>
+    <a href="https://github.com/jigcolapaolo?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jigcolapaolo?color=1dc2ae&labelColor=1aae9c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/jigcolapaolo?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jigcolapaolo?color=f6b26b&style=for-the-badge&labelColor=e69138&logo=star"/></a>
+</p>
 
 ## 🔧 Languages and Tools
 <p align="center">
@@ -33,8 +40,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jigcolapaolo&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50"
