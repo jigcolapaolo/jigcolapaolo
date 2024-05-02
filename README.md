@@ -17,6 +17,11 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)</br></br>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /> Connect with me
+<a href="https://linkedin.com/in/juan-ignacio-colapaolo-b916642a0">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
+</a>
+
 ## 🔧 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
