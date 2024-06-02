@@ -31,7 +31,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /> Connect with me
-<a href="https://linkedin.com/in/juan-ignacio-colapaolo-b916642a0">
+<a href="https://linkedin.com/in/juan-ignacio-colapaolo">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
 </a></br></br>
 
