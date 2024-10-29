@@ -37,12 +37,43 @@
 
 
 ## 🔧 Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,cpp,py,html,css,tailwind,bootstrap,js,react,npm,git,docker,figma,cloudflare,firebase,heroku,netlify,vercel,visualstudio,vscode,codepen,linux,windows,powershell,discord,obsidian&perline=11" />
+
+### 🎨 Frontend
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,vite,nextjs,astro,remix&perline=4" />
   </a>
 </p>
 
+### 🖥️ Backend
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,sqlserver,mysql,postgres&perline=3" />
+  </a>
+</p>
+
+### 🔍 Testing
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,playwright,vitest" />
+  </a>
+</p>
+
+### 🌐 Other Languages
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,py" />
+  </a>
+</p>
+
+### 🛠️ Tools
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,figma,swagger,postman,firebase,heroku,netlify,vercel,visualstudio,vscode" />
+  </a>
+</p>
+
+<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
 
