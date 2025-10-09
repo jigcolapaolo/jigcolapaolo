@@ -48,7 +48,7 @@
 ### 🖥️ Backend
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,sqlserver,mysql,postgres&perline=3" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,express,sqlserver,mysql,postgres&perline=4" />
   </a>
 </p>
 
@@ -56,13 +56,6 @@
 <p>
   <a href="https://go-skill-icons.vercel.app/">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,playwright,vitest" />
-  </a>
-</p>
-
-### 🌐 Other Languages
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,py" />
   </a>
 </p>
 
