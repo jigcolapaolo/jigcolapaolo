@@ -1,79 +1,77 @@
 ![bannert](https://github.com/jigcolapaolo/jigcolapaolo/assets/145474462/957eb932-3613-4a5b-a95b-60cf22edbcf8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=50&duration=3000&pause=2000&color=1670FF&center=true&vCenter=true&random=false&width=1050&height=60&lines=Hi!+I'm+Juan;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=50&duration=3000&pause=2000&color=1670FF&center=true&vCenter=true&random=false&width=1050&height=60&lines=Hi!+I'm+Juan;Backend-Oriented+Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-    <a href="https://github.com/jigcolapaolo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jigcolapaolo?color=1dc2ae&labelColor=1aae9c&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/jigcolapaolo?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jigcolapaolo?color=f6b26b&style=for-the-badge&labelColor=e69138&logo=star"/></a>
+  <a href="http://juancolapaolo-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1670FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/juan-ignacio-colapaolo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About me
+---
 
-</br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" /> Sharing about my journey in tech and programming skills in Backend and Frontend.</br>
+## 🚀 About Me
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> I'm a self-taught developer, constantly learning about new skills and improving the ones I already have.</br>
+💻 Full Stack Developer with a strong **Backend** focus, experienced in building modern web applications using **.NET**, **Node.js**, **React**, and **Next.js**.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Always open to new collaborations whether it be in backend or frontend development.</br>
+⚙️ Passionate about designing maintainable backend services, REST APIs, and scalable architectures while delivering clean, efficient, and user-focused solutions.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Flexed%20Biceps.png" alt="Flexed Biceps" width="25" height="25" /> Currently practicing my stack and improving my problem solving skills.</br>
+📚 Currently expanding my backend expertise while continuing to improve my skills in software architecture and modern development practices.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /> I love games, good stories, cooking and the sea.</br></br>
+🤝 Open to **Full Stack** and **Backend Developer** opportunities.
 
+🌊 Outside programming, I enjoy video games, cooking, good stories, and everything related to the sea.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> Have a look at my [Portfolio](http://juancolapaolo-portfolio.netlify.app/)
-</br></br>
+---
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="25" height="25" /> Connect with me
-<a href="https://linkedin.com/in/juan-ignacio-colapaolo">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50">
-</a></br></br>
-
-
-## 🔧 Languages and Tools
+## 🔧 Tech Stack
 
 ### 🎨 Frontend
+
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,js,ts,react,vite,nextjs,astro,remix&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,ts,react,nextjs,astro&perline=4"/>
   </a>
 </p>
 
 ### 🖥️ Backend
+
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,express,sqlserver,mysql,postgres&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,nodejs,express,nestjs,sqlserver,postgres,mongodb,redis&perline=5"/>
   </a>
 </p>
 
-### 🔍 Testing
+### 🧪 Testing
+
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,playwright,vitest" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jest,playwright,vitest"/>
   </a>
 </p>
 
-### 🛠️ Tools
+### ☁️ Cloud & Tools
+
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,figma,swagger,postman,firebase,heroku,netlify,vercel,visualstudio,vscode" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,githubactions,swagger,postman,firebase,netlify,vercel,visualstudio,vscode"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=react&hide_border=true&layout=compact"/><br/>
+  <img src="https://streak-stats.demolab.com?user=jigcolapaolo&theme=react&fire=FF901D"/>
+</div>
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Stats
-
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigcolapaolo&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"></br>
-  <img src="https://streak-stats.demolab.com?user=jigcolapaolo&theme=react&fire=FF901D">
-</div>
-
-
-</br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50"
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" height="50">
 </div>
